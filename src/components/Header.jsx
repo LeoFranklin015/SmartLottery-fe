@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import { useMoralis } from "react-moralis";
+import console from "console-browserify";
 
 const Header = () => {
   const {
